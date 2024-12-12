@@ -44,7 +44,7 @@ The repository provides SQL queries to answer the following questions:
 15.	Average and total revenue by each sub-category for the top 5 categories in terms of quantity sold.
 ## Analysis
 - <a href="https://github.com/SourabhaSekharRout/Retail-Store-POS-Data-Analysis/blob/main/Retail%20Store%20POS%20Data%20Analysis.sql">Analysis of Business Queries</a>
-Features
+## Features
 - Analyze customer behavior and transaction trends.
 - Gain insights into sales performance across categories and sub-categories.
 - Optimize SQL queries for performance and clarity.
